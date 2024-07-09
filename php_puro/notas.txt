@@ -1,0 +1,6 @@
+* Para correr php puro es necesario el uso de un servidor, en este caso se usa xamp
+* todos los proyectos deben estar creados en C:\xampp\htdocs\
+* Para ingresar a la pagina del php es necesario prender el Apache y el MySql de xampp
+* Posteriormente para abrirlo en el navegador la url seria: "http://localhost/"+"Nombre_Carpeta_Proyecto"
+* Posteriormente se abrira un directorio en el navegador y se buscara el php al que se desea ejecutar y se da click, con esto bastaria para visualizar el archivo
+* Para visualizar cambios es necesario actualizar el navegador y guardar el archivo modificado (control + s o guardado automatico)
